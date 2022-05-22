@@ -1,4 +1,4 @@
 ABCDEFG
-
-
-
+a
+a
+aa
